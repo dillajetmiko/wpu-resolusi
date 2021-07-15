@@ -11,3 +11,4 @@ RENCANA KONTEN WPU
 - Interview
 - Vlog
 - Phyton
+-git
