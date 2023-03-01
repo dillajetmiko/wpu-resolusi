@@ -10,6 +10,6 @@ RENCANA KONTEN WPU
   ^ Laravel
 - Interview
 - Vlog
-- Phyton
 -git
 -github
+-dilla2
