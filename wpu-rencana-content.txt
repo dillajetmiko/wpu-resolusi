@@ -9,7 +9,7 @@ RENCANA KONTEN WPU
 - PHP Framework
   ^ Laravel
 - Interview
-- Vlog
 - Phyton
 -git
 -github
+-edit dilla 1
